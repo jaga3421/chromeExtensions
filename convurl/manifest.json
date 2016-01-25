@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
  
-  "name": "URL to QR",
+  "name": "URL to QR ",
   "description": "This extension will convert url into a QR code. Use your SmartPhone to browse the page from desktop.",
   "version": "1.1",
  
