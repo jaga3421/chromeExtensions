@@ -1,2 +1,3 @@
 # Google Chrome Extensions
-Extensions created by me !
+https://chrome.google.com/webstore/search/jagadeesh.jkp
+If you like my extensions kindly rate and review
